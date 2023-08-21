@@ -1,8 +1,9 @@
-title: Hello World
 # Miguel Rodriguez
-## smaller header bwahaha
+## My previous work experience has dealt primarily with customer service in the restaurant business. I then went to Tallahassee to pursue a degree in Anthropology with
 
-![duck](https://i.imgur.com/HGun7No.png)
+### Education
+Florida State University 
+
 
 _i am slanted_
 
